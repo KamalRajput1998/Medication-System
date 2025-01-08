@@ -4,4 +4,4 @@ CRUD application developed using the Django framework to manage outpatient medic
 
 #
 
-Copyright 2024 @KamalRajput1998
+Copyright @KamalRajput1998
